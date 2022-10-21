@@ -1,0 +1,117 @@
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ dir
+Git                       WhatsApp.lnk  YouTube.lnk  computer.lnk  phytonnn
+Visual\ Studio\ Code.lnk  WinRAR.lnk    ayxan        desktop.ini
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ mkdir Github
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ mkdir a
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ pwd
+/c/Users/aykha/OneDrive/İş masası
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ pwd
+/c/Users/aykha/OneDrive/İş masası
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ cd Git
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ pwd
+/c/Users/aykha/OneDrive/İş masası/Git
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ touch aykhan.txt
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ touch git.exe
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ ^C
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ ls
+aykhan.txt  git.exe*
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ rm git.exe
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ cd git
+bash: cd: git: No such file or directory
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ cd ..
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ pwd
+/c/Users/aykha/OneDrive/İş masası
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ cd Git
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası/Git
+$ cd ..
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ cd
+cd              cdosys.dll      cdprt.dll       cdpusersvc.dll
+cdd.dll         cdp.dll         cdpsvc.dll
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ cd a
+a/     ayxan/
+
+aykha@Aykhan MINGW64 ~/OneDrive/İş masası
+$ cd ../..
+
+aykha@Aykhan MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Belgelerim@
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ KMSAuto++.ini
+ KMSAutoLite.ini
+ Links/
+'Local Settings'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{223e6263-4762-11ed-8c48-e85d65f555b8}.TM.blf
+ NTUSER.DAT{223e6263-4762-11ed-8c48-e85d65f555b8}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{223e6263-4762-11ed-8c48-e85d65f555b8}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ services.exe*
+ services32.exe*
+ services64.exe*
+ source/
+ svchost32.exe*
+
+aykha@Aykhan MINGW64 ~
+$ ^C
+
+aykha@Aykhan MINGW64 ~
+$
